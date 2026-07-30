@@ -192,22 +192,16 @@ Python • Django • SQLite
 
 ---
 
-<h2 align="center">📊 GitHub Dashboard</h2>
+## 📊 GitHub Dashboard
 
-<div align="center">
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=imabhinavraii&show_icons=true&theme=github_dark&hide_border=true" />
+  <img height="170" src="https://streak-stats.demolab.com?user=imabhinavraii&theme=github-dark&hide_border=true" />
+</p>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=imabhinavraii&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img width="49%" src="https://streak-stats.demolab.com?user=imabhinavraii&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<div align="center">
-
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imabhinavraii&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imabhinavraii&layout=compact&theme=github_dark&hide_border=true" />
+</p>
 ---
 
 ## 📈 Contribution Graph
