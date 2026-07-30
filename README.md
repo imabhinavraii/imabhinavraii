@@ -120,16 +120,21 @@ Interests:
 <h3>🤖 AI Interview Preparation Platform</h3>
 
 <a href="https://github.com/imabhinavraii/AI-Interview-Preparation-Platform">
-<img src="assets/images/ai-platform.png" width="100%" alt="AI Interview Platform"/>
+<img src="assets/images/ai-platform.png" alt="AI Interview Platform" width="100%" height="220"/>
 </a>
 
-<b>Tech Stack</b><br>
+<br><br>
+
+<b>Tech Stack</b>
+
+<br>
+
 React • Node.js • Express • MongoDB • Gemini API
 
 <br><br>
 
 <a href="https://github.com/imabhinavraii/AI-Interview-Preparation-Platform">
-<img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
@@ -139,16 +144,21 @@ React • Node.js • Express • MongoDB • Gemini API
 <h3>🔧 AC Repairing Management System</h3>
 
 <a href="https://github.com/imabhinavraii/ACRepairingManagementSystem">
-<img src="assets/images/ac-management.png" width="100%" alt="AC Repairing"/>
+<img src="assets/images/ac-management.png" alt="AC Repairing" width="100%" height="220"/>
 </a>
 
-<b>Tech Stack</b><br>
+<br><br>
+
+<b>Tech Stack</b>
+
+<br>
+
 Python • Django • HTML • CSS • JavaScript
 
 <br><br>
 
 <a href="https://github.com/imabhinavraii/ACRepairingManagementSystem">
-<img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
@@ -157,17 +167,22 @@ Python • Django • HTML • CSS • JavaScript
 
 <h3>🌍 Travel & Tourism Website</h3>
 
-<a href="https://github.com/imabhinavraii/YOUR_REPOSITORY">
-<img src="assets/images/tourism.png" width="100%" alt="Travel & Tourism"/>
+<a href="https://github.com/imabhinavraii/YOUR_REPOSITORY_NAME">
+<img src="assets/images/tourism.png" alt="Travel & Tourism" width="100%" height="220"/>
 </a>
 
-<b>Tech Stack</b><br>
+<br><br>
+
+<b>Tech Stack</b>
+
+<br>
+
 Python • Django • SQLite
 
 <br><br>
 
-<a href="https://github.com/imabhinavraii/YOUR_REPOSITORY">
-<img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://github.com/imabhinavraii/YOUR_REPOSITORY_NAME">
+<img src="https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
