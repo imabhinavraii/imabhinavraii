@@ -217,11 +217,8 @@ Python • Django • SQLite
 ## 🏆 GitHub Achievements
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=imabhinavraii&theme=tokyonight&row=1&column=7"/>
-
+  <img src="https://github-profile-trophy.vercel.app/?username=imabhinavraii&theme=github_dark&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=7" />
 </p>
-
 ---
 ## 🎯 2026 Goals
 
