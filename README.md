@@ -274,3 +274,64 @@ Python • Django • SQLite
 - ✅ Learn Kubernetes
 - ✅ Contribute to Open Source
 
+
+## 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/imabhinavraii/imabhinavraii/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+---
+
+## 👀 Profile Views
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=imabhinavraii&style=for-the-badge&color=blue"/>
+
+</p>
+
+---
+
+## 📫 Connect With Me
+
+<p align="center">
+
+<a href="mailto:raiabhinav8574@gmail.com">
+
+<img src="https://skillicons.dev/icons?i=gmail"/>
+
+</a>
+
+<a href="https://www.linkedin.com/in/abhinav-kumar-rai-4152bb247/">
+
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+
+</a>
+
+<a href="https://github.com/imabhinavraii">
+
+<img src="https://skillicons.dev/icons?i=github"/>
+
+</a>
+
+</p>
+
+---
+
+## 💬 Developer Quote
+
+> "First, solve the problem. Then, write the code." – John Johnson
+
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+If you like my work, consider giving a ⭐ to my repositories.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:0F172A,100:2563EB&section=footer"/>
+
+</div>
