@@ -7,7 +7,7 @@
 ### Full Stack MERN Developer • AI Enthusiast • Backend Developer
 
 <p>
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1200&color=3B82F6&center=true&vCenter=true&width=700&lines=Full+Stack+MERN+Developer;AI+Powered+Web+Applications;Backend+Developer;Open+to+Internship;Always+Learning+New+Technologies"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1200&color=3B82F6&center=true&vCenter=true&width=700&lines=Full+Stack+MERN+Developer;AI+Powered+Web+Applications;Backend+Developer;Open+to+Work;Always+Learning+New+Technologies"/>
 </p>
 
 <p>
