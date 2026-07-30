@@ -124,7 +124,7 @@ Interests:
 
 <a href="https://github.com/imabhinavraii/AI-Interview-Preparation-Platform">
 
-<img src="./images/ai-platform.png" width="100%"/>
+<img src="assets/images/ai-platform.png" width="100%"/>
 
 </a>
 
