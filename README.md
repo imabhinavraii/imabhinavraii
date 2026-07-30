@@ -113,115 +113,67 @@ Interests:
 <h2 align="center">🚀 Featured Projects</h2>
 
 <table>
-
 <tr>
 
-<td width="50%">
+<td width="33%" valign="top" align="center">
 
-<h3 align="center">🤖 AI Interview Preparation Platform</h3>
-
-<div align="center">
+<h3>🤖 AI Interview Preparation Platform</h3>
 
 <a href="https://github.com/imabhinavraii/AI-Interview-Preparation-Platform">
-
-<img src="assets/images/ai-platform.png" width="100%"/>
-
+<img src="assets/images/ai-platform.png" width="100%" alt="AI Interview Platform"/>
 </a>
 
-</div>
-
-### ⭐ Features
-
-- AI Mock Interviews
-- Resume Analysis
-- Skill Assessment
-- Gemini AI Integration
-- Authentication
-- Dashboard
-- Responsive UI
-
-### 🛠 Tech Stack
-
+<b>Tech Stack</b><br>
 React • Node.js • Express • MongoDB • Gemini API
 
-<p>
+<br><br>
 
 <a href="https://github.com/imabhinavraii/AI-Interview-Preparation-Platform">
-
-<img src="https://img.shields.io/badge/Source_Code-black?style=for-the-badge&logo=github"/>
-
+<img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
-</p>
 
 </td>
 
-<td width="50%">
+<td width="33%" valign="top" align="center">
 
-<h3 align="center">🔧 AC Repairing Management System</h3>
-
-<div align="center">
+<h3>🔧 AC Repairing Management System</h3>
 
 <a href="https://github.com/imabhinavraii/ACRepairingManagementSystem">
-
-<img src="assets/images/ac-management.png" width="100%"/>
-
+<img src="assets/images/ac-management.png" width="100%" alt="AC Repairing"/>
 </a>
 
-</div>
-
-### ⭐ Features
-
-- Customer Management
-- Service Booking
-- Admin Panel
-- Invoice
-- Service History
-- Complaint Tracking
-
-### 🛠 Tech Stack
-
+<b>Tech Stack</b><br>
 Python • Django • HTML • CSS • JavaScript
 
-<p>
+<br><br>
 
 <a href="https://github.com/imabhinavraii/ACRepairingManagementSystem">
-
-<img src="https://img.shields.io/badge/Source_Code-black?style=for-the-badge&logo=github"/>
-
+<img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-</p>
+</td>
+
+<td width="33%" valign="top" align="center">
+
+<h3>🌍 Travel & Tourism Website</h3>
+
+<a href="https://github.com/imabhinavraii/YOUR_REPOSITORY">
+<img src="assets/images/tourism.png" width="100%" alt="Travel & Tourism"/>
+</a>
+
+<b>Tech Stack</b><br>
+Python • Django • SQLite
+
+<br><br>
+
+<a href="https://github.com/imabhinavraii/YOUR_REPOSITORY">
+<img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </td>
 
 </tr>
-
 </table>
-
----
-
-## 🌍 Travel & Tourism Website
-
-> Responsive tourism platform built using Django.
-
-**Features**
-
-- Hotel Booking
-- Destination Listing
-- Authentication
-- Search
-- Admin Dashboard
-
-**Tech Stack**
-
-Python • Django • SQLite
-
-<a href="YOUR_REPOSITORY">
-
-<img src="https://img.shields.io/badge/View_Project-black?style=for-the-badge&logo=github"/>
-
-</a>
 
 ---
 
