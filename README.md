@@ -109,3 +109,168 @@ Interests:
 - 📚 Solving Data Structures & Algorithms
 - ☁️ Learning AWS & Cloud Deployment
 - 🐳 Exploring Docker & DevOps
+
+<h2 align="center">🚀 Featured Projects</h2>
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+<h3 align="center">🤖 AI Interview Preparation Platform</h3>
+
+<div align="center">
+
+<a href="https://github.com/imabhinavraii/AI-Interview-Preparation-Platform">
+
+<img src="./images/ai-platform.png" width="100%"/>
+
+</a>
+
+</div>
+
+### ⭐ Features
+
+- AI Mock Interviews
+- Resume Analysis
+- Skill Assessment
+- Gemini AI Integration
+- Authentication
+- Dashboard
+- Responsive UI
+
+### 🛠 Tech Stack
+
+React • Node.js • Express • MongoDB • Gemini API
+
+<p>
+
+<a href="https://github.com/imabhinavraii/AI-Interview-Preparation-Platform">
+
+<img src="https://img.shields.io/badge/Source_Code-black?style=for-the-badge&logo=github"/>
+
+</a>
+
+</p>
+
+</td>
+
+<td width="50%">
+
+<h3 align="center">🔧 AC Repairing Management System</h3>
+
+<div align="center">
+
+<a href="https://github.com/imabhinavraii/ACRepairingManagementSystem">
+
+<img src="./images/ac-management.png" width="100%"/>
+
+</a>
+
+</div>
+
+### ⭐ Features
+
+- Customer Management
+- Service Booking
+- Admin Panel
+- Invoice
+- Service History
+- Complaint Tracking
+
+### 🛠 Tech Stack
+
+Python • Django • HTML • CSS • JavaScript
+
+<p>
+
+<a href="https://github.com/imabhinavraii/ACRepairingManagementSystem">
+
+<img src="https://img.shields.io/badge/Source_Code-black?style=for-the-badge&logo=github"/>
+
+</a>
+
+</p>
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+## 🌍 Travel & Tourism Website
+
+> Responsive tourism platform built using Django.
+
+**Features**
+
+- Hotel Booking
+- Destination Listing
+- Authentication
+- Search
+- Admin Dashboard
+
+**Tech Stack**
+
+Python • Django • SQLite
+
+<a href="YOUR_REPOSITORY">
+
+<img src="https://img.shields.io/badge/View_Project-black?style=for-the-badge&logo=github"/>
+
+</a>
+
+---
+
+<h2 align="center">📊 GitHub Dashboard</h2>
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=imabhinavraii&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img width="49%" src="https://streak-stats.demolab.com?user=imabhinavraii&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imabhinavraii&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=imabhinavraii&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+## 🏆 GitHub Achievements
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=imabhinavraii&theme=tokyonight&row=1&column=7"/>
+
+</p>
+
+---
+## 🎯 2026 Goals
+
+- ✅ Crack Product-Based Company
+- ✅ Software Development Internship
+- ✅ 500+ DSA Problems
+- ✅ Build AI SaaS Projects
+- ✅ Master MERN Stack
+- ✅ Learn AWS
+- ✅ Learn Docker
+- ✅ Learn Kubernetes
+- ✅ Contribute to Open Source
+
