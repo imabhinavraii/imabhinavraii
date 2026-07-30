@@ -237,12 +237,9 @@ Python • Django • SQLite
 ## 🐍 Contribution Snake
 
 <p align="center">
-
-<img src="https://raw.githubusercontent.com/imabhinavraii/imabhinavraii/output/github-contribution-grid-snake-dark.svg"/>
-
+  <img src="https://raw.githubusercontent.com/imabhinavraii/imabhinavraii/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 </p>
 
----
 
 ## 👀 Profile Views
 
