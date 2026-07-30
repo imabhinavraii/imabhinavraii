@@ -164,7 +164,7 @@ React • Node.js • Express • MongoDB • Gemini API
 
 <a href="https://github.com/imabhinavraii/ACRepairingManagementSystem">
 
-<img src="./images/ac-management.png" width="100%"/>
+<img src="assets/images/ac-management.png" width="100%"/>
 
 </a>
 
